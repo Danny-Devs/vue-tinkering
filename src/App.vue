@@ -11,5 +11,6 @@ import MainLayout from './components/layouts/MainLayout.vue'
 <style>
 body {
   background: darkolivegreen;
+  height: 100vh;
 }
 </style>
